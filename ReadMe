@@ -13,20 +13,9 @@ Welcome to the Drum Kit website! This is an interactive web application that all
 ## How to Use
 
 1. Click on the drum pads on the screen to play sounds.
-2. Alternatively, use your keyboard's designated keys to play (e.g., "Q" for kick drum, "W" for snare, "E" for hi-hat).
+2. Alternatively, use your keyboard's designated keys to play.
 3. Experiment with creating rhythms and beats, or just have fun playing with the sounds.
 4. The website is fully responsive, so you can play on any device with a browser.
-
-### Keyboard Mapping
-- *Q* – Kick Drum
-- *W* – Snare Drum
-- *E* – Hi-Hat (Closed)
-- *A* – Tom 1
-- *S* – Tom 2
-- *D* – Tom 3
-- *Z* – Crash Cymbal
-- *X* – Ride Cymbal
-- *C* – Hi-Hat (Open)
 
 ## Installation
 
@@ -37,6 +26,9 @@ bash
 git clone https://github.com/your-username/drum-kit.git
 cd drum-kit
 open index.html
+
+OR
+ visit at https://vanshika-aggarwal1.github.io/Drum-KIt/
 
 
 ## Technologies Used
